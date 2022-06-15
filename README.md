@@ -5,13 +5,13 @@
 
 <p>
   <li> I'm an undergraduate Computer Engineering student. </li>
-  <li> Learning MERN Stack and Data Structure and Algorithms. </li>
+  <li> Learning MERN Stack and DSA. </li>
   <li> Working on MERN projects.</li>
 </p>
 
 <h3> 🤝 Connect with me </h3>
 
-<li> My LinkedIN : <a href="https://linkedin.com/in/nikita-kubavat-15122001">Nikita Kubavat</a> </li>
+<li> My LinkedIn : <a href="https://linkedin.com/in/nikita-kubavat-15122001">Nikita Kubavat</a> </li>
 <li> Contact me: <a href="mailto:nikitakubavat33@gmail.com">nikitakubavat33@gmail.com</a> </li>
 
 <h3> 💻 Tools and Languages </h3>
