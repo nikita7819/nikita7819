@@ -4,7 +4,7 @@
 <h3> 👩‍💻 About Me </h3>
 
 <p>
-  <li> I'm an Software Developer at Accenture. </li>
+  <li> I'm a Software Developer at Accenture. </li>
   <li> Learning MERN Stack and DSA. </li>
   <li> Working on MERN projects.</li>
 </p>
